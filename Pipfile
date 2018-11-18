@@ -6,8 +6,9 @@ name = "pypi"
 [packages]
 black = "==18.6b4"
 pre-commit = "*"
+snakeviz = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.6"
+python_version = "3.7"
